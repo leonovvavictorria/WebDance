@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.966c59e8.css",
-    "main.js": "/static/js/main.5226fa9e.js",
-    "static/media/balet.jpg": "/static/media/balet.c04d8f8147c0526816f1.jpg",
-    "index.html": "/index.html",
-    "main.966c59e8.css.map": "/static/css/main.966c59e8.css.map",
-    "main.5226fa9e.js.map": "/static/js/main.5226fa9e.js.map"
+    "main.css": "/WebDance/static/css/main.966c59e8.css",
+    "main.js": "/WebDance/static/js/main.c459e837.js",
+    "static/media/balet.jpg": "/WebDance/static/media/balet.c04d8f8147c0526816f1.jpg",
+    "index.html": "/WebDance/index.html",
+    "main.966c59e8.css.map": "/WebDance/static/css/main.966c59e8.css.map",
+    "main.c459e837.js.map": "/WebDance/static/js/main.c459e837.js.map"
   },
   "entrypoints": [
     "static/css/main.966c59e8.css",
-    "static/js/main.5226fa9e.js"
+    "static/js/main.c459e837.js"
   ]
 }
