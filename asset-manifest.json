@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/WebDance/static/css/main.966c59e8.css",
-    "main.js": "/WebDance/static/js/main.c459e837.js",
+    "main.css": "/WebDance/static/css/main.eccf561a.css",
+    "main.js": "/WebDance/static/js/main.4eacab78.js",
     "static/media/balet.jpg": "/WebDance/static/media/balet.c04d8f8147c0526816f1.jpg",
+    "static/media/balerina2.jpg": "/WebDance/static/media/balerina2.e6ffc7b9fa9143d60a8f.jpg",
+    "static/media/balerina.jpg": "/WebDance/static/media/balerina.01a978fba894c9c2bd70.jpg",
+    "static/media/balerina7.jpg": "/WebDance/static/media/balerina7.b31d96af74f0c17a7b09.jpg",
+    "static/media/balerina6.jpg": "/WebDance/static/media/balerina6.c94d5b786876aa8b5691.jpg",
+    "static/media/balerina3.jpg": "/WebDance/static/media/balerina3.24d95e9326168d41e210.jpg",
+    "static/media/balerina4.jpg": "/WebDance/static/media/balerina4.17d9a70dd44b6c5f2754.jpg",
     "index.html": "/WebDance/index.html",
-    "main.966c59e8.css.map": "/WebDance/static/css/main.966c59e8.css.map",
-    "main.c459e837.js.map": "/WebDance/static/js/main.c459e837.js.map"
+    "main.eccf561a.css.map": "/WebDance/static/css/main.eccf561a.css.map",
+    "main.4eacab78.js.map": "/WebDance/static/js/main.4eacab78.js.map"
   },
   "entrypoints": [
-    "static/css/main.966c59e8.css",
-    "static/js/main.c459e837.js"
+    "static/css/main.eccf561a.css",
+    "static/js/main.4eacab78.js"
   ]
 }
