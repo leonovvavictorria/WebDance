@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/WebDance/static/css/main.eccf561a.css",
-    "main.js": "/WebDance/static/js/main.4eacab78.js",
+    "main.js": "/WebDance/static/js/main.cfdeadaf.js",
     "static/media/balet.jpg": "/WebDance/static/media/balet.c04d8f8147c0526816f1.jpg",
     "static/media/balerina2.jpg": "/WebDance/static/media/balerina2.e6ffc7b9fa9143d60a8f.jpg",
     "static/media/balerina.jpg": "/WebDance/static/media/balerina.01a978fba894c9c2bd70.jpg",
@@ -11,10 +11,10 @@
     "static/media/balerina4.jpg": "/WebDance/static/media/balerina4.17d9a70dd44b6c5f2754.jpg",
     "index.html": "/WebDance/index.html",
     "main.eccf561a.css.map": "/WebDance/static/css/main.eccf561a.css.map",
-    "main.4eacab78.js.map": "/WebDance/static/js/main.4eacab78.js.map"
+    "main.cfdeadaf.js.map": "/WebDance/static/js/main.cfdeadaf.js.map"
   },
   "entrypoints": [
     "static/css/main.eccf561a.css",
-    "static/js/main.4eacab78.js"
+    "static/js/main.cfdeadaf.js"
   ]
 }
